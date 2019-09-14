@@ -65,3 +65,7 @@ app.listen(process.env.PORT, process.env.IP, function() {
 });
 
 //app.listen(3000);
+
+
+// git push heroku master
+// hope I don't forget it again...
