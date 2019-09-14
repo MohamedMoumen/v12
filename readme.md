@@ -25,3 +25,5 @@
   }
   
   ** The deployed version's url: https://sleepy-gorge-57613.herokuapp.com/
+  
+  Keep in mind that this is an unfinished version with a lot of room for improvement.
